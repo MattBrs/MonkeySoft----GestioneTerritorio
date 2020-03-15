@@ -1,0 +1,3 @@
+978AA|via dei tigli,10 - Thiene|200|8|A|300
+253BB|via G. Leopardi,28 - Marostica|50|3|10000
+978BB|via Pascoli,20 - Thinene|180|6|B|300
